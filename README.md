@@ -6,17 +6,17 @@
 
 💬 Ask me about anything related to **Flutter, Firebase, Oracle, Android**
 
-  📝 I regularly write articles on Medium [http://hafsaabid4016.medium.com/](http://hafsaabid4016.medium.com/)
+  📝 Check out my articles on Medium: [Hafsa's Articles](http://hafsaabid4016.medium.com/)
 
-  📄I also post articles on Hashnode [https://hashnode.com/@hafsaabid](https://hashnode.com/@hafsaabid)
+  📄Explore my posts on Hashnode: [Hafsa Writes](https://hashnode.com/@hafsaabid)
 
-  📫 How to reach me **hafsaabid4016@gmail.com**
+  📫 You can reach me out at **hafsaabid4016@gmail.com**
 
-  👨‍💻 All of my projects are available at **https://developer-portfolio-javascript-frontend-77.vercel.app/**
+  👨‍💻 All of my projects are available at [Hafsa's Portfolio](https://developer-portfolio-javascript-frontend-77.vercel.app/) 
 
-  📄 Know about my experiences [https://drive.google.com/file/d/13zNDLD3jYimqlcNo-cDQW2YX7YQ0_xll/view?usp=sharing](https://drive.google.com/file/d/13zNDLD3jYimqlcNo-cDQW2YX7YQ0_xll/view?usp=sharing)
+  📄 Take a look at [My Resume](https://drive.google.com/file/d/13zNDLD3jYimqlcNo-cDQW2YX7YQ0_xll/view?usp=sharing) 
 
-  ⚡ Fun fact **I am a gym rat**  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /> 
+  ⚡ Fun fact **I am a gym rat and enjoy baking**  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /> 
 
   <br><br>
 
