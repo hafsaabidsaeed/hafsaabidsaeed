@@ -18,6 +18,6 @@ A passionate Front End Developer |  Flutter  | SQL Developer | Android Developer
 
 💼 LinkedIn: https://www.linkedin.com/in/hafsa-abid-382c/
 
-📓Medium: hafsaabid4016.medium.com
+📓Medium: http://hafsaabid4016.medium.com/
 
-
+💼 Hashnode: https://hashnode.com/@hafsaabid
