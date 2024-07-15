@@ -25,10 +25,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hafsaabidsaeed&show_icons=true&locale=en&layout=compact" alt="hafsaabidsaeed" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hafsaabidsaeed&show_icons=true&locale=en" alt="hafsaabidsaeed" /></p>
 
-
-<br><br> <br><br>
+<br><br> <br><br> <br><br> 
 
  ## Connect with me
 <p align="left">
