@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Hafsa Abid <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
-<h3 align="center">A Full Stack Mobile App Developer | Flutter | Node.js | MongoDB | SQL Developer | Android Developer | Java | UI UX Designer | HTML, CSS, JavaScript</h3>
+<h3 align="center">A Full Stack Mobile App Developer | Flutter | Node.js | Express.js | MongoDB | SQL Developer | Android and IOS Developer | Java | UI UX Designer | HTML, CSS, JavaScript</h3>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hafsaabidsaeed&label=Profile%20views&color=0e75b6&style=flat" alt="hafsaabidsaeed" /> </p>
