@@ -14,7 +14,7 @@
 
   👨‍💻 All of my projects are available at [Hafsa's Portfolio](https://developer-portfolio-javascript-frontend-77.vercel.app/) 
 
-  📄 Take a look at [My Resume]([https://drive.google.com/file/d/1qC_KBSlUoxIhDdrGRCJRhPfoFpCo2TEx/view?usp=sharing](https://drive.google.com/file/d/1qC_KBSlUoxIhDdrGRCJRhPfoFpCo2TEx/view?usp=drive_link))
+  📄 Take a look at [My Resume](https://drive.google.com/file/d/1qC_KBSlUoxIhDdrGRCJRhPfoFpCo2TEx/view?usp=drive_link)
 
 
   ⚡ Fun fact **I am a gym rat and enjoy baking**  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /> 
